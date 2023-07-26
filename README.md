@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Elena
 </h1>
 <h3 align="center">Frontend Developer</h3>
-<h3>Contacts: piratlena@inbox.ru</h3>
 <h3>Skills and Technologies</h3>
 <hr/>
 
